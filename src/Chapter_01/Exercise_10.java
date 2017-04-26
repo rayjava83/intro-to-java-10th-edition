@@ -15,7 +15,7 @@ public class Exercise_10 {
 
         double kilometers = 14.0;
         double miles = kilometers / 1.6;
-
+// why 45.5 + 30.0 ?
         double rate = (45.5 * 60.0 + 30.0) / (60.0 * 60.0);
         double milesPerHour = miles / rate;
 
